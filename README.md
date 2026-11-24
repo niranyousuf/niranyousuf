@@ -72,38 +72,54 @@ Web Developer with 5+ years of experience turning designs into fast, responsive 
 | **CodeMonstar** | WordPress university site with custom post types, events and advanced search | [Live](https://project.niranyousuf.me) |
 
 ---
-
 ## Tech Stack
 
 **Frameworks & Libraries**
 
-<!-- Icons from skillicons.dev -->
+<!-- Each icon is a separate image so size and spacing can be controlled -->
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,jquery,tailwind,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react" width="36" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="36" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" width="36" alt="jQuery" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="36" alt="Bootstrap" />
 </p>
 
 **Markup, Styling & CMS**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,wordpress,php" alt="Markup and CMS" />
+  <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" width="36" alt="SCSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=wordpress" width="36" alt="WordPress" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="36" alt="PHP" />
 </p>
 
 **Database & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,git,github,vscode,figma,ps,xd" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="36" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" width="36" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="36" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ps" width="36" alt="Photoshop" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=xd" width="36" alt="Adobe XD" />
 </p>
 
 Also: GSAP · ACF · Gutenberg Blocks · REST API · Jira · Zoho
 
 ---
+
 ## Let's Connect
 
-<!-- Icons from skillicons.dev, same source as the Tech Stack section -->
 <p>
-  <a href="https://linkedin.com/in/niranyousuf"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:niran069@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://x.com/niran069"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
+  <a href="https://linkedin.com/in/niranyousuf"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:niran069@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/niran069"><img src="https://skillicons.dev/icons?i=twitter" width="36" alt="X" /></a>
 </p>
 
 🌐 [niranyousuf.me](https://niranyousuf.me) · 📧 [niran069@gmail.com](mailto:niran069@gmail.com)
